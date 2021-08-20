@@ -1,0 +1,12 @@
+:root {
+--bg-color: black;
+--font-color: white;
+--border-color: white;
+
+--font: 'Zen Dots', cursive;
+
+--btn-font-color: black;
+--btn-hover-font-color: white;
+--btn-bg-color: white;
+--btn-bg-hover-color: black;
+}
